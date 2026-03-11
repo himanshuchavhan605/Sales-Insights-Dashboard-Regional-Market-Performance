@@ -35,7 +35,7 @@ Sales teams managing multiple regional markets struggle to identify which market
 | Power BI | Dashboard building & visualization |
 | DAX | Revenue measures, KPI calculations |
 | Power Query | Data cleaning & transformation |
-| Excel | Raw data source |
+| MySQL | Raw data source (db_dump.sql) |
 | Data Modeling | Sales transactions, markets, customers, products tables |
 
 ---
